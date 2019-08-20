@@ -1,0 +1,11 @@
+/home/elvira/Documents/Client/obj/Debug/netcoreapp2.2/Client.csprojAssemblyReference.cache
+/home/elvira/Documents/Client/obj/Debug/netcoreapp2.2/Client.csproj.CoreCompileInputs.cache
+/home/elvira/Documents/Client/obj/Debug/netcoreapp2.2/Client.AssemblyInfoInputs.cache
+/home/elvira/Documents/Client/obj/Debug/netcoreapp2.2/Client.AssemblyInfo.cs
+/home/elvira/Documents/Client/bin/Debug/netcoreapp2.2/Client.deps.json
+/home/elvira/Documents/Client/bin/Debug/netcoreapp2.2/Client.runtimeconfig.json
+/home/elvira/Documents/Client/bin/Debug/netcoreapp2.2/Client.runtimeconfig.dev.json
+/home/elvira/Documents/Client/bin/Debug/netcoreapp2.2/Client.dll
+/home/elvira/Documents/Client/bin/Debug/netcoreapp2.2/Client.pdb
+/home/elvira/Documents/Client/obj/Debug/netcoreapp2.2/Client.dll
+/home/elvira/Documents/Client/obj/Debug/netcoreapp2.2/Client.pdb
